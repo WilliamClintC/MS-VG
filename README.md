@@ -1,6 +1,7 @@
 
 
-Spillover Effects of Mass Shootings
+#Spillover Effects of Mass Shootings
+
 In this notebook we study the effects of mass shootings on tangential "shooting" related economies, in particular counter strike.
 
 The main question being "does demand for shooting activities increase after a mass shooting?"
